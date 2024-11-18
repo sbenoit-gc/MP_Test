@@ -1,5 +1,5 @@
 # Project Name  MP_Test
-<img src="Saved/AutoScreenshot.png" width="320"  align="right" />
+<img src="Saved/LocalMultiPlayerLoRes.png" width="320"  align="right" />
 
 ## Description
 
